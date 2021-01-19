@@ -1,174 +1,174 @@
-id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
-50904,aplace/antwerp: cosy suite - fashion district,234077,Karin,,Historisch Centrum,51.21825,4.39901,Hotel room,158,1,1,2015-05-06,0.01,4,246
-116134,Trendy Vacation Apartment Antwerp,586942,Paul,,Eilandje,51.23051,4.40593,Entire home/apt,150,2,102,2020-11-16,0.95,1,352
-224333,Large stylish room in 1930s house + garden,1167377,Geert,,Deurne Zuid West,51.19772,4.45853,Private room,16,14,2,2020-07-04,0.02,2,1
-224682,APARTMENT ROSCAM - OLD CENTRE ANTWERP,1263933,Kristien,,Sint-Andries,51.21722,4.3979,Entire home/apt,86,2,337,2020-12-28,3.12,1,362
-328911,Large Modern Apt W Great Park Views,1263814,Tinne,,Stadspark,51.21078,4.4105,Entire home/apt,44,15,59,2019-10-30,0.55,1,57
-345959,Marleen's home in Antwerp city,1754396,Marleen,,Markgrave,51.19935,4.40154,Entire home/apt,55,2,55,2020-09-22,0.52,2,338
-363155,1-bedroom apartment with court yard,1835458,Roos,,Amandus - Atheneum,51.22119,4.41951,Entire home/apt,50,2,20,2020-11-06,0.19,1,305
-366252,ROOM IN FAMILY HOME near C. Station,1820186,Fronk & Lieve,,Borgerhout Intra Muros Noord,51.21601,4.43432,Private room,35,1,104,2019-09-15,0.97,6,365
-445201,ROOM in FAMILY HOME near Central Sation,1820186,Fronk & Lieve,,Borgerhout Intra Muros Noord,51.21579,4.43265,Private room,22,1,55,2020-09-10,0.53,6,365
-522693,Ahome Awayfromhome,2562294,Ahome,,Historisch Centrum,51.22001,4.39813,Entire home/apt,282,2,2,2017-10-27,0.03,1,364
-573641,Design Apartment Near The Center!,2822632,Ariane,,Hoogte,51.18187,4.39381,Entire home/apt,98,3,20,2019-02-26,0.20,2,0
-"575935,""Room in Cosy Design Duplex, Antwerp"",1128692,Larissa,,Hoogte,51.18152,4.39463,Private room,69,2,36,2020-03-08,0.35,1,17"
-603545,*Perfect* for a Longer Stay | Trendy | City center,2987880,Serge,,Harmonie,51.20753,4.40589,Entire home/apt,150,2,22,2020-09-13,0.22,1,1
-"636664,""sunny rooftop apartment, sleeps 2-5"",462975,Els,,Borgerhout Intra Muros Zuid,51.21618,4.43037,Entire home/apt,85,2,81,2020-03-15,0.80,1,365"
-639013,The chill place in Antwerp 1,3189018,Cathy,,Borgerhout Intra Muros Noord,51.21748,4.4456,Private room,85,2,34,2018-07-22,0.33,3,364
-685049,Stylish decorated  room in 'art nouveau house',3493319,Glenn,,Oud - Berchem,51.19589,4.41443,Private room,65,2,5,2020-02-24,0.06,1,364
-723033,Spacy family studio in Antwerp City,3734348,Sylvia,,Stadspark,51.20955,4.41481,Entire home/apt,63,2,237,2020-03-08,2.38,1,59
-772842,Stay in a designers place & donate,4050173,Daisy,,Linkeroever,51.21775,4.38434,Entire home/apt,82,7,66,2018-06-01,0.68,1,1
-778043,cosy & beautiful apartment Antwerp,1735092,Marc & Elizabeth,,Stadspark,51.20399,4.41249,Entire home/apt,76,2,62,2020-01-01,0.64,1,362
-789555,+++blancoooJOZEFIEN+++ roofterrace,3185214,Annemie,,Centraal Station,51.2117,4.42665,Entire home/apt,93,2,48,2020-03-09,0.49,4,329
-813969,150 m² loft (terrace & river view),4277604,Sarah,,Sint-Andries,51.21347,4.39125,Entire home/apt,196,1,62,2020-10-17,0.92,2,0
-842077,4 Cosy rooms near Central Station,4396703,Son,,Amandus - Atheneum,51.2215,4.42606,Private room,40,1,402,2020-07-07,4.12,5,361
-866701,4 Cosy rooms near Central Station,4396703,Son,,Amandus - Atheneum,51.2215,4.42606,Private room,40,1,284,2020-07-14,2.94,5,1
-890384,+++ blancoooHOME +++,3185214,Annemie,,Centraal Station,51.21198,4.4269,Entire home/apt,150,7,0,,,4,292
-"891355,""BorzeB&B, sleeping in the heart of Antwerp!"",1366391,Micheline,,Universiteitsbuurt,51.22043,4.40562,Private room,85,2,79,2020-02-03,0.85,1,153"
-891884,aplace/antwerp: amazing suite & square view,234077,Karin,,Historisch Centrum,51.21825,4.39901,Hotel room,157,1,10,2019-10-20,0.54,4,0
-891907,aplace/antwerp: stunning flat with square view,234077,Karin,,Historisch Centrum,51.21825,4.39901,Entire home/apt,178,2,5,2020-02-09,0.06,4,330
-959200,NEST,4715596,Caroline & Klaas,,Borgerhout Intra Muros Noord,51.21596,4.43764,Entire home/apt,49,2,58,2020-06-13,0.67,2,0
-961296,Great Classic House in Antwerp (4-10 persons),3189018,Cathy,,Borgerhout Intra Muros Noord,51.21531,4.44498,Entire home/apt,317,1,48,2020-01-29,0.61,3,0
-991824,Colourful Inspiration In Every Room,5446991,Magali,,Deurne Zuid West,51.20316,4.46015,Entire home/apt,77,1,230,2020-10-04,2.46,2,362
-1050693,Colourful Inspiration In Every Room,5446991,Magali,,Deurne Zuid West,51.20316,4.46015,Entire home/apt,77,1,23,2020-09-23,0.26,2,1
-"1105318,""Number22Antwerp, cosy duplex"",6068286,Frederic Luca,,Zuid,51.21024,4.39995,Entire home/apt,75,2,29,2020-01-01,0.32,3,365"
-1108491,4 Cosy rooms near Central Station! ~ double room,4396703,Son,,Amandus - Atheneum,51.2215,4.42606,Private room,40,1,216,2020-08-23,2.32,5,360
-1146375,Homey apartment near Antwerpen Centraal Station,1764235,Isa,,Borgerhout Intra Muros Noord,51.21751,4.4298,Entire home/apt,57,1,165,2020-10-01,1.80,1,350
-"1172376,""Number22Antwerp, Cosy & Trendy Flat"",6068286,Frederic Luca,,Zuid,51.21026,4.40138,Entire home/apt,80,1,16,2020-10-23,0.18,3,365"
-1172826,Bedroom in large antique house near parks+trams,1167377,Geert,,Deurne Zuid West,51.19813,4.45807,Private room,16,7,3,2020-03-04,0.16,2,365
-1184623,Luxe penthouse,4865806,Tommie,,Eilandje,51.23133,4.41015,Entire home/apt,170,2,21,2020-07-14,0.24,2,213
-1209063,Room with a view!,6596883,Martine,,Borgerhout Intra Muros Zuid,51.21053,4.43308,Entire home/apt,77,1,33,2020-03-14,0.37,1,178
-1227242,Cosy ship Hannus Antwerp Belgium,4193029,Jan,,Eilandje,51.22775,4.40388,Private room,66,1,4,2020-07-26,0.38,2,349
-"1267516,""Suites in Antwerp:""""Suite Frederik"""""",5758428,Philip-Emmanuel,,Zurenborg,51.207,4.42702,Entire home/apt,179,1,3,2013-10-13,0.03,2,365"
-1328770,Cosy historic Ship Hannus  Antwerp,4193029,Jan,,Eilandje,51.22875,4.40254,Private room,66,1,136,2020-07-19,1.50,2,353
-1405414,bright apartment with parkview,4870468,Debora - Jo,,Stadspark,51.21388,4.41573,Entire home/apt,90,3,98,2020-03-09,1.09,1,120
-1427505,Trendy apartment near city park !,7672678,Mark,,Stadspark,51.21205,4.41315,Entire home/apt,67,10,41,2019-10-31,0.45,1,362
-"1504952,""""""Antwerp B&B"""""",573329,Patricia,,Centraal Station,51.21692,4.42749,Private room,100,1,55,2020-09-09,0.61,1,364"
-1577011,New and bright apartment in center,8382721,Rien,,Stuivenberg,51.22105,4.42809,Entire home/apt,65,4,33,2019-11-01,0.37,1,355
-1585405,Relax and enjoy Antwerp :-),8446724,Vera,,Deurne Dorp - Gallifort,51.22337,4.46923,Private room,38,3,196,2020-08-05,2.19,1,361
-1666809,Duplex apartment/loft close to MAS with parking,4127444,Maarten,,Historisch Centrum,51.22493,4.40333,Entire home/apt,75,2,6,2020-11-19,0.59,1,266
-"1708652,""Suites in Antwerp: """"suite Joachim"""""",5758428,Philip-Emmanuel,,Zurenborg,51.20828,4.42645,Entire home/apt,74,2,2,2020-01-06,0.14,2,364"
-1791465,Lovely flat in trendy neighborhood,9399334,Dirk & Leen,,Borgerhout Intra Muros Noord,51.21406,4.43907,Entire home/apt,51,3,75,2020-11-30,0.86,1,245
-1808782,LOFT 1D  - conceptual loft,9478810,Keith,,Sint-Andries,51.21232,4.39571,Entire home/apt,112,2,188,2020-12-23,2.19,1,315
-2059299,Casual house nicely located,7034290,Kwinten,,Haringrode,51.20202,4.41754,Private room,23,2,37,2020-11-30,1.07,2,158
-2059774,spacious and comfortable apartment,8689159,Agnes,,Oud - Berchem,51.19714,4.41722,Entire home/apt,85,6,12,2020-02-22,0.14,1,362
-2069688,Authentic centre Antwerp: cozy view,10583986,Amada,,Historisch Centrum,51.22642,4.401,Entire home/apt,60,1,139,2020-03-06,1.63,1,364
-2086302,Cozy apartment in Antwerp-Berchem,4218557,Anke,,Groenenhoek,51.1958,4.4392,Entire home/apt,45,30,12,2019-06-10,0.14,1,203
-2133274,Middelheim Guest House,10885207,Armand,,Oosterveld - Elsdonk,51.17635,4.42433,Private room,75,1,13,2020-02-26,0.22,1,365
-2154692,Authentic and very light studio in Antwerp,44988374,Tijs,,Stuivenberg,51.22725,4.43552,Entire home/apt,59,2,32,2020-03-09,0.77,1,365
-2194840,Fully equiped Appartement,11087865,Rooms Antwerpen,,Universiteitsbuurt,51.2234,4.41389,Entire home/apt,39,1,458,2020-08-16,5.42,5,361
-2230592,Loft near Sportpaleis,3488121,Jan,,Deurne Noord,51.22979,4.44464,Private room,55,1,37,2020-02-09,0.44,2,90
-2347414,The chill place in Antwerp 2,3189018,Cathy,,Borgerhout Intra Muros Noord,51.21711,4.44417,Private room,85,2,1,2017-04-24,0.02,3,179
-2427717,Cosy vintage flat ° center Antwerp,12409903,Annick,,Theaterbuurt-Meir,51.21659,4.4073,Entire home/apt,110,1,301,2020-07-26,3.62,2,274
-2433570,charming place on a quiet and green courtyard,12411315,Sophie,,Stuivenberg,51.22154,4.4383,Private room,49,2,103,2020-03-09,1.25,1,365
-2436964,NEW - Quiet loft in city center w/ private parking,10891625,Yves,,Historisch Centrum,51.22257,4.40394,Entire home/apt,105,2,62,2020-07-12,2.55,1,75
-2448815,MAISON NATIONALE City Flats&Suites,12523959,Tom,,Sint-Andries,51.21699,4.40014,Private room,165,1,0,,,1,0
-2522970,Luxury city center apartment  with terrace,12917758,Bart,,Theaterbuurt-Meir,51.21861,4.40964,Entire home/apt,136,1,253,2020-12-28,3.06,1,295
-2543695,aplace/antwerp: gorgeous flat with square view,234077,Karin,,Historisch Centrum,51.21825,4.39901,Entire home/apt,186,2,12,2018-12-07,0.16,4,341
-2602613,Light and spacious duplex apartment,13330269,Joelle,,Borgerhout Intra Muros Noord,51.21611,4.43234,Entire home/apt,65,2,148,2020-10-12,1.80,1,361
-2609419,Gezellig 1-slpk app. op toplocatie,10342058,Sofie & Manu,,Zuid,51.20539,4.38821,Entire home/apt,65,1,29,2018-06-30,0.39,1,230
-2682808,Cosy room in a charming house,13733939,Anneke,,Oud - Berchem,51.1976,4.42955,Private room,33,2,353,2020-12-18,4.30,1,365
-2762341,Comfortable studio downtown Antwerp,5398498,Martine,,Amandus - Atheneum,51.22222,4.41709,Entire home/apt,59,4,14,2019-08-16,0.17,1,59
-"2819412,""laterrebleue-'my house, your house'"",14423888,Fatima,,Borgerhout Intra Muros Zuid,51.20914,4.43539,Shared room,36,1,112,2020-01-02,1.65,1,361"
-2819790,Bohemian Republic- Grand-Suite.,4261413,Jackie,,Oud - Berchem,51.20056,4.43333,Private room,340,1,26,2019-11-24,0.32,15,365
-2820108,Beds in Antwerp City!,4261413,Jackie,,Oud - Berchem,51.20179,4.43163,Shared room,43,1,101,2019-08-18,1.24,15,365
-2843276,The Old charming Lady,4261413,Jackie,,Oud - Berchem,51.20143,4.43312,Private room,48,1,53,2015-08-30,0.65,15,365
-2918528,Shared Rooms Or Private in the City!,4261413,Jackie,,Oud - Berchem,51.20031,4.43252,Shared room,19,1,90,2020-09-24,1.12,15,365
-3025379,+++ KAMIL +++ terrace & pond,3185214,Annemie,,Borgerhout Intra Muros Zuid,51.21066,4.42863,Entire home/apt,140,2,173,2020-02-02,2.19,4,264
-"3048594,Unique huge loft with private pool and big garden.,6930093,""Ian, Jande En Marie"",,Borgerhout Intra Muros Noord,51.21571,4.43311,Entire home/apt,246,2,235,2020-12-04,2.92,3,87"
-"3197919,""100 years old """"master mansion""""."",16207518,Michael,,Harmonie,51.20688,4.40645,Entire home/apt,230,3,10,2019-07-28,0.14,1,1"
-3202647,Penthouse +Terrace @CentralStation,10614479,Steven,,Stadspark,51.21757,4.41641,Entire home/apt,72,7,38,2020-12-06,0.57,1,364
-3203133,Cosy flat in trendy neighbourhood,13572444,Vincent,,Zurenborg,51.20658,4.42614,Entire home/apt,35,20,11,2019-09-20,0.14,1,304
-3268690,Bright appartment at the South of Antwerp,13665161,Jozefien,,Zuid,51.20495,4.38977,Entire home/apt,118,2,44,2019-02-24,0.56,1,58
-3518676,Charmant appartement op toplocatie!,17717089,Leonie En Ahmed,,Historisch Centrum,51.22392,4.40238,Entire home/apt,104,2,77,2020-03-08,1.02,1,365
-3540493,Antwerp City Studio,15709831,Liam,,Amandus - Atheneum,51.21898,4.42506,Entire home/apt,49,2,276,2020-07-26,3.52,1,344
-3740347,Authentic place city centre,18578941,Marilyne,,Sint-Andries,51.21334,4.40073,Entire home/apt,110,1,0,,,1,1
-3857702,Rooms - Apartment - Studio - City Center Antwerp,19891615,Bart,,Universiteitsbuurt,51.2223,4.40746,Entire home/apt,180,2,23,2019-07-29,0.31,1,365
-3894091,Cosy and bright apartment for 2,12010306,Maïté,,Borgerhout Intra Muros Zuid,51.21154,4.43096,Entire home/apt,65,3,3,2015-10-20,0.04,1,365
-3915726,Cosy room: Bikes incl.+free parking,14723014,Aline,,Oosterveld - Elsdonk,51.17161,4.42695,Private room,18,2,64,2019-09-21,1.08,1,243
-3969576,Privé kamer te huur,20572492,JackieJ,,Borgerhout Intra Muros Zuid,51.21183,4.44019,Private room,27,1,287,2020-12-25,4.40,4,365
-4017995,Studio Daring Indigo,20834666,Greta,,Harmonie,51.20767,4.407,Private room,75,1,22,2020-02-16,0.31,3,180
-4026852,Luxury townhouse close to the center of Antwerp,20878289,Bart,,Hoboken - Centrum,51.17582,4.3474,Private room,46,1,12,2020-10-01,0.85,2,365
-4030176,terrace studio in old Post office Park Spoor Noord,9438737,Joel,,Amandus - Atheneum,51.22677,4.41754,Entire home/apt,50,14,145,2020-11-27,1.90,1,357
-"4032738,""Leuk dak appartement, 2 slaapkamers"",20906634,Sirene,,Borgerhout Intra Muros Zuid,51.21432,4.4362,Entire home/apt,58,2,17,2019-07-22,0.22,1,0"
-4064854,Studio Pancake Paste,20834666,Greta,,Harmonie,51.20835,4.40671,Private room,75,1,37,2019-11-29,0.53,3,180
-4163391,Spacious & eclectic loft,7500115,Kelly,,Eilandje,51.2332,4.41039,Entire home/apt,196,2,6,2018-10-20,0.11,1,0
-4265913,Cosy 19th c townhouse near Central Station+parking,22144864,Greet,,Stuivenberg,51.21906,4.43022,Entire home/apt,194,5,20,2020-03-16,0.27,2,304
-4303323,Den Coninck Achab,22337575,Jerry,,Universiteitsbuurt,51.22239,4.41097,Entire home/apt,135,2,14,2020-01-05,0.19,1,363
-4322521,Duplex 160m² with sauna & piano,15216532,Pascal,,Zuid,51.20582,4.38771,Entire home/apt,102,1,229,2020-12-27,3.13,1,1
-4332020,Marleen's cosy first floor flat,1754396,Marleen,,Markgrave,51.20096,4.40172,Entire home/apt,50,2,9,2018-09-16,0.14,2,89
-4444232,Charming room in center of Antwerp,23065924,Christopher,,Historisch Centrum,51.22143,4.40283,Private room,57,2,86,2020-08-06,1.17,1,365
-4502646,Unique city loft with amazing view!,13059720,Yara,,Sint-Andries,51.21769,4.39833,Entire home/apt,79,2,567,2020-03-16,7.67,1,0
-4592434,Modern 4 pers appartement Antwerpen,23805604,Gina,,Eilandje,51.22946,4.40614,Entire home/apt,150,2,60,2020-03-15,0.81,1,244
-4703827,Spacious loungeroom w/ garden&piano,3015779,Yuri,,Zurenborg,51.20924,4.4251,Private room,29,1,16,2016-01-03,0.22,1,215
-"4733497,""Louise Marie, romantisch huisje"",24249803,Michel,,Historisch Centrum,51.21785,4.39927,Entire home/apt,190,2,108,2020-07-19,1.49,1,365"
-4853293,Duplex in renovated Coach House,24968524,Wim,,Stadspark,51.21034,4.41771,Private room,115,2,1,2015-06-22,0.01,3,362
-4980368,Panoramic view restyled appartement,25674863,Sam,,Zurenborg,51.20579,4.43136,Entire home/apt,79,7,6,2018-04-20,0.10,3,365
-4985922,Sfeervolle studio in hartje Antwerp,25701603,Nadi,,Theaterbuurt-Meir,51.21011,4.40581,Entire home/apt,75,2,30,2020-01-02,0.44,1,363
-5020599,Stylish Rooftop next to CHANEL,13357011,Liselotte,,Theaterbuurt-Meir,51.21687,4.40709,Entire home/apt,99,7,44,2020-03-16,0.61,1,1
-5026455,Triplex apt in the heart of Antwerp,4492282,Lies,,Historisch Centrum,51.21804,4.39894,Entire home/apt,171,2,91,2020-03-16,1.26,2,1
-5040147,++HENRI++ furnished apartment with roof terrace,3185214,Annemie,,Borgerhout Intra Muros Zuid,51.21161,4.42929,Entire home/apt,93,2,63,2020-12-07,0.95,4,247
-5047962,Quiet place in an historical quarter,12309348,Luc & Kristina,,Haringrode,51.20269,4.42433,Private room,60,1,132,2020-09-23,1.84,1,365
-5074616,Discrete luxury on a top location,26204741,Patrick,,Eilandje,51.23028,4.41823,Entire home/apt,84,3,73,2020-10-05,1.02,1,305
-5096851,Double room in cosy and quiet house with garden.,15216025,Paolo,,Deurne Zuid Oost,51.19984,4.46793,Private room,75,1,1,2018-05-21,0.03,1,174
-5187760,A-South Luxury Penthouse Living,24007242,Bep,,Zuid,51.2124,4.39328,Entire home/apt,300,2,34,2020-02-16,0.48,1,309
-5223125,Modern flat in the historical centrum  of Antwerp,27027069,Sander,,Historisch Centrum,51.21835,4.40018,Entire home/apt,48,1,339,2020-03-15,4.72,1,297
-5233718,Apartment in Antwerp,27086764,Nina,,Theaterbuurt-Meir,51.21655,4.41352,Entire home/apt,93,2,21,2020-10-11,0.29,1,319
-"5379855,Classy and spacious 19th cent loft with terrace.,11534275,""Ian, Jande En Marie"",,Borgerhout Intra Muros Zuid,51.21464,4.43446,Entire home/apt,260,2,178,2020-03-08,2.55,1,0"
-"5417459,""Full house with garden, near by tram"",7553126,Tania,,Hoboken - Centrum,51.17887,4.36301,Entire home/apt,50,2,91,2020-06-21,1.55,1,0"
-5574536,Central studio in historic center,28902892,AchA,,Historisch Centrum,51.22019,4.4,Entire home/apt,85,2,100,2020-08-04,1.44,2,359
-5575185,Central apartment w/ exclusive view,28902892,AchA,,Historisch Centrum,51.21873,4.39963,Entire home/apt,115,2,215,2020-10-07,3.06,2,285
-5578067,Design loft in historic building,28920566,Jasper,,Universiteitsbuurt,51.22091,4.4164,Shared room,85,1,174,2020-03-15,2.49,1,147
-5646286,NESTT,4715596,Caroline & Klaas,,Borgerhout Intra Muros Noord,51.21464,4.43711,Entire home/apt,49,2,47,2020-10-14,0.67,2,175
-5702020,Where living becomes poetry...,29563257,Isabel,,Sint-Andries,51.21491,4.39732,Entire home/apt,90,2,84,2019-11-10,1.20,1,177
-"5741728,""""""la casa di Frà"""""",29779875,""""""La Casa Di Frà"",,Borgerhout Intra Muros Zuid,51.21484,4.43169,Entire home/apt,70,1,34,2018-03-04,0.49,1,0"
-5789730,Back to Beck,30038566,Marleen,,Deurne Zuid Oost,51.19612,4.46167,Entire home/apt,79,1,41,2020-09-13,0.59,1,304
-5922786,Smartflats Meir 301 - 2 Bedrooms - Meir Area,2792958,Alex,,Theaterbuurt-Meir,51.21902,4.40909,Entire home/apt,182,1,50,2020-09-11,0.77,21,1
-5923210,Smartflats Meir 401 - 2 Bedrooms - Meir Area,2792958,Alex,,Theaterbuurt-Meir,51.21857,4.40898,Entire home/apt,158,1,24,2020-09-14,0.37,21,331
-5923754,Smartflats Meir 501 - 1 Bedroom - Meir Area,2792958,Alex,,Theaterbuurt-Meir,51.21837,4.40868,Entire home/apt,138,1,11,2020-09-18,0.17,21,352
-5940310,Adorable happy positive vibes place,4586965,Marie,,Kiel,51.18236,4.38937,Entire home/apt,110,1,52,2020-07-25,0.94,2,363
-5994895,Cosy apartment in historic house,11857224,Christel,,Historisch Centrum,51.22076,4.39855,Entire home/apt,118,3,25,2020-03-09,0.37,1,365
-6000928,Arendshof,29134589,Guido,,Deurne Oost,51.22319,4.48347,Entire home/apt,135,1,15,2019-11-29,0.25,1,363
-6004053,Room at 20 min.' walk from center,31168861,Monique,,Brederode,51.20399,4.39827,Private room,20,10,27,2018-09-10,0.39,1,245
-6046872,Feel Good  Antwerp City Apartment,27432928,Anastassya,,Harmonie,51.2061,4.40915,Entire home/apt,79,3,56,2020-11-30,2.52,1,60
-"6051973,""Welcome @Tempor'area, reopening June 8th! :-)"",3970988,Arthur,,Theaterbuurt-Meir,51.21336,4.40415,Entire home/apt,148,2,67,2020-10-15,0.97,1,354"
-6071213,At Granny's near Rivierenhof,1820186,Fronk & Lieve,,Deurne Oost,51.22075,4.47857,Private room,30,7,9,2020-07-19,0.13,6,365
-6149034,Lovely flat with spectacular view!,25673165,Sharon,,Eilandje,51.23273,4.40394,Entire home/apt,40,2,282,2020-12-06,4.09,1,361
-6150016,private vintage room in Antwerp,21648784,Samuel,,Borgerhout Intra Muros Zuid,51.21331,4.43286,Private room,50,1,36,2020-02-16,0.52,1,0
-6183201,Duplex Studio,31447903,Marjolijn,,Zuid,51.20649,4.39284,Entire home/apt,75,2,50,2019-09-10,0.72,1,182
-6183800,Comfy Studio Apartment in Antwerp,32074613,Bart,,Amandus - Atheneum,51.22801,4.41684,Entire home/apt,77,2,38,2020-07-12,0.94,2,25
-6271039,Art Tout,20572492,JackieJ,,Borgerhout Intra Muros Zuid,51.21134,4.44073,Private room,35,1,100,2020-11-28,1.46,4,364
-6418099,BOOK LOVERS' room near Station,33481052,Anne,,Borgerhout Intra Muros Zuid,51.21538,4.42761,Private room,48,2,285,2020-03-01,4.22,5,365
-6428108,Lozana Lodging,33547183,Erik,,Harmonie,51.20117,4.40684,Entire home/apt,105,5,0,,,2,363
-6463582,Comfortable accommodation in spacious penthouse,30519050,Bart,,Stuivenberg,51.22061,4.43441,Private room,42,7,106,2020-09-17,1.56,1,89
-"6545997,""Penthouse + 60 m2 terras"
-"Incl. 2 fietsen"",34241163,Peter,,Amandus - Atheneum,51.22376,4.41753,Entire home/apt,69,1,19,2020-03-08,0.28,1,0"
-6584668,Belle Epoque Townhouse Antwerp,9629145,Tom,,Stadspark,51.20914,4.41327,Entire home/apt,536,2,111,2020-11-03,1.68,1,80
-6585827,Quiet room close to Central Station,33481052,Anne,,Centraal Station,51.21614,4.42675,Private room,39,2,151,2020-03-01,2.26,5,365
-6592820,4 pers. roomAmbassador Antwerpen,12559122,Be-Housing,,Stadspark,51.20939,4.42212,Entire home/apt,80,1,4,2017-04-23,0.06,3,365
-6593097,6 pers. Ambassador Antwerp,12559122,Be-Housing,,Zurenborg,51.20954,4.42323,Entire home/apt,118,1,0,,,3,365
-6594526,8 pers. Room Ambassador Antwerp,12559122,Be-Housing,,Haringrode,51.20839,4.42224,Entire home/apt,150,1,4,2016-10-23,0.06,3,364
-6670508,cozy appt in main shopping district,34913046,Laila,,Theaterbuurt-Meir,51.21915,4.40721,Entire home/apt,111,2,184,2020-10-08,2.72,4,363
-6672914,Cosy modern studio city-center WIFI & parking,34924663,Astrid,,Eilandje,51.23095,4.40589,Entire home/apt,68,2,39,2020-04-01,0.61,1,293
-6700898,Quiet with a view and morning light,33481052,Anne,,Borgerhout Intra Muros Zuid,51.21458,4.42861,Private room,49,2,13,2019-12-03,0.19,5,365
-6821808,Appartement near Central Station,6833101,Dorith,,Stuivenberg,51.22018,4.42919,Entire home/apt,64,2,23,2020-02-27,0.35,1,0
-6833081,Cosy appartment close to free parking,35491133,Karin,,Zuid,51.20697,4.38598,Entire home/apt,55,3,48,2020-10-31,0.71,2,275
-6919227,The Old Charming Lady,4261413,Jackie,,Oud - Berchem,51.20143,4.4329,Private room,45,1,7,2020-08-21,0.11,15,365
-6984717,Trendy apartment in city centre,36620632,Fred,,Theaterbuurt-Meir,51.21019,4.40555,Entire home/apt,85,2,12,2020-07-26,0.43,1,37
-6988851,Big 1 Bdrm Apt in Hip Marnix Place - Antwerp-Zuid,4371798,Nina,,Zuid,51.2115,4.39879,Entire home/apt,100,5,30,2020-07-21,0.78,2,337
-7027563,Studio aan de rand van Antwerpen,36841645,Ann,,Nieuw - Kwartier West,51.18986,4.42491,Entire home/apt,61,2,22,2020-05-28,0.34,1,183
-7041474,privé kamer op tweede verdieping,34106356,Jim,,Stuivenberg,51.22121,4.43052,Private room,25,1,223,2020-11-09,3.33,1,1
-7067067,Master bedroom with 2 balconies,33481052,Anne,,Borgerhout Intra Muros Zuid,51.21528,4.42754,Private room,48,2,200,2020-02-05,3.00,5,363
-7123771,Triplex in het oude centrum van Antwerpen,37228775,Jules,,Theaterbuurt-Meir,51.21662,4.40192,Entire home/apt,80,2,31,2020-09-25,1.82,2,161
-7262234,cosy appartement near trainstation,14050717,Nana,,Amandus - Atheneum,51.2238,4.42055,Entire home/apt,52,2,136,2020-09-13,2.51,2,101
-7264367,BOHEMIAN HOUSE ANTWERP From Sunday To Friday ‘s!!!,4261413,Jackie,,Oud - Berchem,51.1998,4.43277,Hotel room,36,1,18,2020-03-08,0.27,15,365
-7264462,The FAMILY HOUSE!,4261413,Jackie,,Oud - Berchem,51.20097,4.43159,Private room,1002,1,11,2019-08-11,0.17,15,365
-7298474,Authentic Belgian apartment,27585607,Christel,,Amandus - Atheneum,51.22375,4.4216,Entire home/apt,54,2,289,2020-10-23,4.36,3,350
-7342924,Central apt. with panoramic view,6830519,Jura,,Universiteitsbuurt,51.22077,4.41521,Entire home/apt,63,2,102,2020-03-13,1.54,1,1
-7365174,Cosy classical mansion,30007259,Carlo En Johnny,,Deurne Zuid West,51.20915,4.45426,Private room,42,1,277,2020-09-30,4.18,2,302
-7416651,Convenient located quiet cosy house,30408795,Joris,,Amandus - Atheneum,51.2208,4.42289,Entire home/apt,65,2,48,2020-03-09,0.73,1,0
-7443226,Well furnished apartment in Antwerp,33641167,Rose,,Deurne Zuid Oost,51.19645,4.4634,Private room,99,1,0,,,1,365
-7461110,Meeting rooms  in Art Nouveau Antwerp! Add Beds!,4261413,Jackie,,Oud - Berchem,51.20037,4.43316,Private room,47,1,6,2019-03-31,0.09,15,365
-7552929,Cosy and vintage apartment,10832813,Freya,,Borgerhout Intra Muros Noord,51.2184,4.44352,Entire home/apt,60,2,83,2020-10-25,1.26,1,33
-7614218,Antwerp Apartment near Centre & EXPO,8851707,Nancy & Arthur,,Petroleum - Zuid,51.19629,4.39048,Entire home/apt,102,1,78,2020-06-21,1.37,1,350
-7649576,Trendy appartment with view,40140067,Katrien,,Markgrave,51.19786,4.40675,Entire home/apt,79,2,42,2020-07-03,0.64,1,178
-7724259,green paradise near central station,24189736,Paul,,Borgerhout Intra Muros Zuid,51.21334,4.43175,Entire home/apt,500,4,20,2019-11-10,0.31,2,364
+id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;room_type;price;minimum_nights;number_of_reviews;last_review;reviews_per_month;calculated_host_listings_count;availability_365
+50904;aplace/antwerp: cosy suite - fashion district;234077;Karin;;Historisch Centrum;5.121.825;439.901;Hotel room;158;1;1;6/05/2015;0.01;4;246
+116134;Trendy Vacation Apartment Antwerp;586942;Paul;;Eilandje;5.123.051;440.593;Entire home/apt;150;2;102;16/11/2020;0.95;1;352
+224333;Large stylish room in 1930s house + garden;1167377;Geert;;Deurne Zuid West;5.119.772;445.853;Private room;16;14;2;4/07/2020;0.02;2;1
+224682;APARTMENT ROSCAM - OLD CENTRE ANTWERP;1263933;Kristien;;Sint-Andries;5.121.722;43.979;Entire home/apt;86;2;337;28/12/2020;3.12;1;362
+328911;Large Modern Apt W Great Park Views;1263814;Tinne;;Stadspark;5.121.078;44.105;Entire home/apt;44;15;59;30/10/2019;0.55;1;57
+345959;Marleen's home in Antwerp city;1754396;Marleen;;Markgrave;5.119.935;440.154;Entire home/apt;55;2;55;22/09/2020;0.52;2;338
+363155;1-bedroom apartment with court yard;1835458;Roos;;Amandus - Atheneum;5.122.119;441.951;Entire home/apt;50;2;20;6/11/2020;0.19;1;305
+366252;ROOM IN FAMILY HOME near C. Station;1820186;Fronk & Lieve;;Borgerhout Intra Muros Noord;5.121.601;443.432;Private room;35;1;104;15/09/2019;0.97;6;365
+445201;ROOM in FAMILY HOME near Central Sation;1820186;Fronk & Lieve;;Borgerhout Intra Muros Noord;5.121.579;443.265;Private room;22;1;55;10/09/2020;0.53;6;365
+522693;Ahome Awayfromhome;2562294;Ahome;;Historisch Centrum;5.122.001;439.813;Entire home/apt;282;2;2;27/10/2017;0.03;1;364
+573641;Design Apartment Near The Center!;2822632;Ariane;;Hoogte;5.118.187;439.381;Entire home/apt;98;3;20;26/02/2019;0.20;2;0
+"575935,""Room in Cosy Design Duplex, Antwerp"",1128692,Larissa,,Hoogte,51.18152,4.39463,Private room,69,2,36,2020-03-08,0.35,1,17";;;;;;;;;;;;;;;
+603545;*Perfect* for a Longer Stay | Trendy | City center;2987880;Serge;;Harmonie;5.120.753;440.589;Entire home/apt;150;2;22;13/09/2020;0.22;1;1
+"636664,""sunny rooftop apartment, sleeps 2-5"",462975,Els,,Borgerhout Intra Muros Zuid,51.21618,4.43037,Entire home/apt,85,2,81,2020-03-15,0.80,1,365";;;;;;;;;;;;;;;
+639013;The chill place in Antwerp 1;3189018;Cathy;;Borgerhout Intra Muros Noord;5.121.748;44.456;Private room;85;2;34;22/07/2018;0.33;3;364
+685049;Stylish decorated  room in 'art nouveau house';3493319;Glenn;;Oud - Berchem;5.119.589;441.443;Private room;65;2;5;24/02/2020;0.06;1;364
+723033;Spacy family studio in Antwerp City;3734348;Sylvia;;Stadspark;5.120.955;441.481;Entire home/apt;63;2;237;8/03/2020;2.38;1;59
+772842;Stay in a designers place & donate;4050173;Daisy;;Linkeroever;5.121.775;438.434;Entire home/apt;82;7;66;1/06/2018;0.68;1;1
+778043;cosy & beautiful apartment Antwerp;1735092;Marc & Elizabeth;;Stadspark;5.120.399;441.249;Entire home/apt;76;2;62;1/01/2020;0.64;1;362
+789555;#�NOMBRE?;3185214;Annemie;;Centraal Station;512.117;442.665;Entire home/apt;93;2;48;9/03/2020;0.49;4;329
+813969;150 m² loft (terrace & river view);4277604;Sarah;;Sint-Andries;5.121.347;439.125;Entire home/apt;196;1;62;17/10/2020;0.92;2;0
+842077;4 Cosy rooms near Central Station;4396703;Son;;Amandus - Atheneum;512.215;442.606;Private room;40;1;402;7/07/2020;4.12;5;361
+866701;4 Cosy rooms near Central Station;4396703;Son;;Amandus - Atheneum;512.215;442.606;Private room;40;1;284;14/07/2020;2.94;5;1
+890384;+++ blancoooHOME +++;3185214;Annemie;;Centraal Station;5.121.198;44.269;Entire home/apt;150;7;0;;;4;292
+"891355,""BorzeB&B, sleeping in the heart of Antwerp!"",1366391,Micheline,,Universiteitsbuurt,51.22043,4.40562,Private room,85,2,79,2020-02-03,0.85,1,153";;;;;;;;;;;;;;;
+891884;aplace/antwerp: amazing suite & square view;234077;Karin;;Historisch Centrum;5.121.825;439.901;Hotel room;157;1;10;20/10/2019;0.54;4;0
+891907;aplace/antwerp: stunning flat with square view;234077;Karin;;Historisch Centrum;5.121.825;439.901;Entire home/apt;178;2;5;9/02/2020;0.06;4;330
+959200;NEST;4715596;Caroline & Klaas;;Borgerhout Intra Muros Noord;5.121.596;443.764;Entire home/apt;49;2;58;13/06/2020;0.67;2;0
+961296;Great Classic House in Antwerp (4-10 persons);3189018;Cathy;;Borgerhout Intra Muros Noord;5.121.531;444.498;Entire home/apt;317;1;48;29/01/2020;0.61;3;0
+991824;Colourful Inspiration In Every Room;5446991;Magali;;Deurne Zuid West;5.120.316;446.015;Entire home/apt;77;1;230;4/10/2020;2.46;2;362
+1050693;Colourful Inspiration In Every Room;5446991;Magali;;Deurne Zuid West;5.120.316;446.015;Entire home/apt;77;1;23;23/09/2020;0.26;2;1
+"1105318,""Number22Antwerp, cosy duplex"",6068286,Frederic Luca,,Zuid,51.21024,4.39995,Entire home/apt,75,2,29,2020-01-01,0.32,3,365";;;;;;;;;;;;;;;
+1108491;4 Cosy rooms near Central Station! ~ double room;4396703;Son;;Amandus - Atheneum;512.215;442.606;Private room;40;1;216;23/08/2020;2.32;5;360
+1146375;Homey apartment near Antwerpen Centraal Station;1764235;Isa;;Borgerhout Intra Muros Noord;5.121.751;44.298;Entire home/apt;57;1;165;1/10/2020;1.80;1;350
+"1172376,""Number22Antwerp, Cosy & Trendy Flat"",6068286,Frederic Luca,,Zuid,51.21026,4.40138,Entire home/apt,80,1,16,2020-10-23,0.18,3,365";;;;;;;;;;;;;;;
+1172826;Bedroom in large antique house near parks+trams;1167377;Geert;;Deurne Zuid West;5.119.813;445.807;Private room;16;7;3;4/03/2020;0.16;2;365
+1184623;Luxe penthouse;4865806;Tommie;;Eilandje;5.123.133;441.015;Entire home/apt;170;2;21;14/07/2020;0.24;2;213
+1209063;Room with a view!;6596883;Martine;;Borgerhout Intra Muros Zuid;5.121.053;443.308;Entire home/apt;77;1;33;14/03/2020;0.37;1;178
+1227242;Cosy ship Hannus Antwerp Belgium;4193029;Jan;;Eilandje;5.122.775;440.388;Private room;66;1;4;26/07/2020;0.38;2;349
+"1267516,""Suites in Antwerp:""""Suite Frederik"""""",5758428,Philip-Emmanuel,,Zurenborg,51.207,4.42702,Entire home/apt,179,1,3,2013-10-13,0.03,2,365";;;;;;;;;;;;;;;
+1328770;Cosy historic Ship Hannus  Antwerp;4193029;Jan;;Eilandje;5.122.875;440.254;Private room;66;1;136;19/07/2020;1.50;2;353
+1405414;bright apartment with parkview;4870468;Debora - Jo;;Stadspark;5.121.388;441.573;Entire home/apt;90;3;98;9/03/2020;1.09;1;120
+1427505;Trendy apartment near city park !;7672678;Mark;;Stadspark;5.121.205;441.315;Entire home/apt;67;10;41;31/10/2019;0.45;1;362
+"1504952,""""""Antwerp B&B"""""",573329,Patricia,,Centraal Station,51.21692,4.42749,Private room,100,1,55,2020-09-09,0.61,1,364";;;;;;;;;;;;;;;
+1577011;New and bright apartment in center;8382721;Rien;;Stuivenberg;5.122.105;442.809;Entire home/apt;65;4;33;1/11/2019;0.37;1;355
+1585405;Relax and enjoy Antwerp :-);8446724;Vera;;Deurne Dorp - Gallifort;5.122.337;446.923;Private room;38;3;196;5/08/2020;2.19;1;361
+1666809;Duplex apartment/loft close to MAS with parking;4127444;Maarten;;Historisch Centrum;5.122.493;440.333;Entire home/apt;75;2;6;19/11/2020;0.59;1;266
+"1708652,""Suites in Antwerp: """"suite Joachim"""""",5758428,Philip-Emmanuel,,Zurenborg,51.20828,4.42645,Entire home/apt,74,2,2,2020-01-06,0.14,2,364";;;;;;;;;;;;;;;
+1791465;Lovely flat in trendy neighborhood;9399334;Dirk & Leen;;Borgerhout Intra Muros Noord;5.121.406;443.907;Entire home/apt;51;3;75;30/11/2020;0.86;1;245
+1808782;LOFT 1D  - conceptual loft;9478810;Keith;;Sint-Andries;5.121.232;439.571;Entire home/apt;112;2;188;23/12/2020;2.19;1;315
+2059299;Casual house nicely located;7034290;Kwinten;;Haringrode;5.120.202;441.754;Private room;23;2;37;30/11/2020;1.07;2;158
+2059774;spacious and comfortable apartment;8689159;Agnes;;Oud - Berchem;5.119.714;441.722;Entire home/apt;85;6;12;22/02/2020;0.14;1;362
+2069688;Authentic centre Antwerp: cozy view;10583986;Amada;;Historisch Centrum;5.122.642;4.401;Entire home/apt;60;1;139;6/03/2020;1.63;1;364
+2086302;Cozy apartment in Antwerp-Berchem;4218557;Anke;;Groenenhoek;511.958;44.392;Entire home/apt;45;30;12;10/06/2019;0.14;1;203
+2133274;Middelheim Guest House;10885207;Armand;;Oosterveld - Elsdonk;5.117.635;442.433;Private room;75;1;13;26/02/2020;0.22;1;365
+2154692;Authentic and very light studio in Antwerp;44988374;Tijs;;Stuivenberg;5.122.725;443.552;Entire home/apt;59;2;32;9/03/2020;0.77;1;365
+2194840;Fully equiped Appartement;11087865;Rooms Antwerpen;;Universiteitsbuurt;512.234;441.389;Entire home/apt;39;1;458;16/08/2020;5.42;5;361
+2230592;Loft near Sportpaleis;3488121;Jan;;Deurne Noord;5.122.979;444.464;Private room;55;1;37;9/02/2020;0.44;2;90
+2347414;The chill place in Antwerp 2;3189018;Cathy;;Borgerhout Intra Muros Noord;5.121.711;444.417;Private room;85;2;1;24/04/2017;0.02;3;179
+2427717;Cosy vintage flat ° center Antwerp;12409903;Annick;;Theaterbuurt-Meir;5.121.659;44.073;Entire home/apt;110;1;301;26/07/2020;3.62;2;274
+2433570;charming place on a quiet and green courtyard;12411315;Sophie;;Stuivenberg;5.122.154;44.383;Private room;49;2;103;9/03/2020;1.25;1;365
+2436964;NEW - Quiet loft in city center w/ private parking;10891625;Yves;;Historisch Centrum;5.122.257;440.394;Entire home/apt;105;2;62;12/07/2020;2.55;1;75
+2448815;MAISON NATIONALE City Flats&Suites;12523959;Tom;;Sint-Andries;5.121.699;440.014;Private room;165;1;0;;;1;0
+2522970;Luxury city center apartment  with terrace;12917758;Bart;;Theaterbuurt-Meir;5.121.861;440.964;Entire home/apt;136;1;253;28/12/2020;3.06;1;295
+2543695;aplace/antwerp: gorgeous flat with square view;234077;Karin;;Historisch Centrum;5.121.825;439.901;Entire home/apt;186;2;12;7/12/2018;0.16;4;341
+2602613;Light and spacious duplex apartment;13330269;Joelle;;Borgerhout Intra Muros Noord;5.121.611;443.234;Entire home/apt;65;2;148;12/10/2020;1.80;1;361
+2609419;Gezellig 1-slpk app. op toplocatie;10342058;Sofie & Manu;;Zuid;5.120.539;438.821;Entire home/apt;65;1;29;30/06/2018;0.39;1;230
+2682808;Cosy room in a charming house;13733939;Anneke;;Oud - Berchem;511.976;442.955;Private room;33;2;353;18/12/2020;4.30;1;365
+2762341;Comfortable studio downtown Antwerp;5398498;Martine;;Amandus - Atheneum;5.122.222;441.709;Entire home/apt;59;4;14;16/08/2019;0.17;1;59
+"2819412,""laterrebleue-'my house, your house'"",14423888,Fatima,,Borgerhout Intra Muros Zuid,51.20914,4.43539,Shared room,36,1,112,2020-01-02,1.65,1,361";;;;;;;;;;;;;;;
+2819790;Bohemian Republic- Grand-Suite.;4261413;Jackie;;Oud - Berchem;5.120.056;443.333;Private room;340;1;26;24/11/2019;0.32;15;365
+2820108;Beds in Antwerp City!;4261413;Jackie;;Oud - Berchem;5.120.179;443.163;Shared room;43;1;101;18/08/2019;1.24;15;365
+2843276;The Old charming Lady;4261413;Jackie;;Oud - Berchem;5.120.143;443.312;Private room;48;1;53;30/08/2015;0.65;15;365
+2918528;Shared Rooms Or Private in the City!;4261413;Jackie;;Oud - Berchem;5.120.031;443.252;Shared room;19;1;90;24/09/2020;1.12;15;365
+3025379;#�NOMBRE?;3185214;Annemie;;Borgerhout Intra Muros Zuid;5.121.066;442.863;Entire home/apt;140;2;173;2/02/2020;2.19;4;264
+"3048594,Unique huge loft with private pool and big garden.,6930093,""Ian, Jande En Marie"",,Borgerhout Intra Muros Noord,51.21571,4.43311,Entire home/apt,246,2,235,2020-12-04,2.92,3,87";;;;;;;;;;;;;;;
+"3197919,""100 years old """"master mansion""""."",16207518,Michael,,Harmonie,51.20688,4.40645,Entire home/apt,230,3,10,2019-07-28,0.14,1,1";;;;;;;;;;;;;;;
+3202647;Penthouse +Terrace @CentralStation;10614479;Steven;;Stadspark;5.121.757;441.641;Entire home/apt;72;7;38;6/12/2020;0.57;1;364
+3203133;Cosy flat in trendy neighbourhood;13572444;Vincent;;Zurenborg;5.120.658;442.614;Entire home/apt;35;20;11;20/09/2019;0.14;1;304
+3268690;Bright appartment at the South of Antwerp;13665161;Jozefien;;Zuid;5.120.495;438.977;Entire home/apt;118;2;44;24/02/2019;0.56;1;58
+3518676;Charmant appartement op toplocatie!;17717089;Leonie En Ahmed;;Historisch Centrum;5.122.392;440.238;Entire home/apt;104;2;77;8/03/2020;1.02;1;365
+3540493;Antwerp City Studio;15709831;Liam;;Amandus - Atheneum;5.121.898;442.506;Entire home/apt;49;2;276;26/07/2020;3.52;1;344
+3740347;Authentic place city centre;18578941;Marilyne;;Sint-Andries;5.121.334;440.073;Entire home/apt;110;1;0;;;1;1
+3857702;Rooms - Apartment - Studio - City Center Antwerp;19891615;Bart;;Universiteitsbuurt;512.223;440.746;Entire home/apt;180;2;23;29/07/2019;0.31;1;365
+3894091;Cosy and bright apartment for 2;12010306;Maïté;;Borgerhout Intra Muros Zuid;5.121.154;443.096;Entire home/apt;65;3;3;20/10/2015;0.04;1;365
+3915726;Cosy room: Bikes incl.+free parking;14723014;Aline;;Oosterveld - Elsdonk;5.117.161;442.695;Private room;18;2;64;21/09/2019;1.08;1;243
+3969576;Privé kamer te huur;20572492;JackieJ;;Borgerhout Intra Muros Zuid;5.121.183;444.019;Private room;27;1;287;25/12/2020;4.40;4;365
+4017995;Studio Daring Indigo;20834666;Greta;;Harmonie;5.120.767;4.407;Private room;75;1;22;16/02/2020;0.31;3;180
+4026852;Luxury townhouse close to the center of Antwerp;20878289;Bart;;Hoboken - Centrum;5.117.582;43.474;Private room;46;1;12;1/10/2020;0.85;2;365
+4030176;terrace studio in old Post office Park Spoor Noord;9438737;Joel;;Amandus - Atheneum;5.122.677;441.754;Entire home/apt;50;14;145;27/11/2020;1.90;1;357
+"4032738,""Leuk dak appartement, 2 slaapkamers"",20906634,Sirene,,Borgerhout Intra Muros Zuid,51.21432,4.4362,Entire home/apt,58,2,17,2019-07-22,0.22,1,0";;;;;;;;;;;;;;;
+4064854;Studio Pancake Paste;20834666;Greta;;Harmonie;5.120.835;440.671;Private room;75;1;37;29/11/2019;0.53;3;180
+4163391;Spacious & eclectic loft;7500115;Kelly;;Eilandje;512.332;441.039;Entire home/apt;196;2;6;20/10/2018;0.11;1;0
+4265913;Cosy 19th c townhouse near Central Station+parking;22144864;Greet;;Stuivenberg;5.121.906;443.022;Entire home/apt;194;5;20;16/03/2020;0.27;2;304
+4303323;Den Coninck Achab;22337575;Jerry;;Universiteitsbuurt;5.122.239;441.097;Entire home/apt;135;2;14;5/01/2020;0.19;1;363
+4322521;Duplex 160m² with sauna & piano;15216532;Pascal;;Zuid;5.120.582;438.771;Entire home/apt;102;1;229;27/12/2020;3.13;1;1
+4332020;Marleen's cosy first floor flat;1754396;Marleen;;Markgrave;5.120.096;440.172;Entire home/apt;50;2;9;16/09/2018;0.14;2;89
+4444232;Charming room in center of Antwerp;23065924;Christopher;;Historisch Centrum;5.122.143;440.283;Private room;57;2;86;6/08/2020;1.17;1;365
+4502646;Unique city loft with amazing view!;13059720;Yara;;Sint-Andries;5.121.769;439.833;Entire home/apt;79;2;567;16/03/2020;7.67;1;0
+4592434;Modern 4 pers appartement Antwerpen;23805604;Gina;;Eilandje;5.122.946;440.614;Entire home/apt;150;2;60;15/03/2020;0.81;1;244
+4703827;Spacious loungeroom w/ garden&piano;3015779;Yuri;;Zurenborg;5.120.924;44.251;Private room;29;1;16;3/01/2016;0.22;1;215
+"4733497,""Louise Marie, romantisch huisje"",24249803,Michel,,Historisch Centrum,51.21785,4.39927,Entire home/apt,190,2,108,2020-07-19,1.49,1,365";;;;;;;;;;;;;;;
+4853293;Duplex in renovated Coach House;24968524;Wim;;Stadspark;5.121.034;441.771;Private room;115;2;1;22/06/2015;0.01;3;362
+4980368;Panoramic view restyled appartement;25674863;Sam;;Zurenborg;5.120.579;443.136;Entire home/apt;79;7;6;20/04/2018;0.10;3;365
+4985922;Sfeervolle studio in hartje Antwerp;25701603;Nadi;;Theaterbuurt-Meir;5.121.011;440.581;Entire home/apt;75;2;30;2/01/2020;0.44;1;363
+5020599;Stylish Rooftop next to CHANEL;13357011;Liselotte;;Theaterbuurt-Meir;5.121.687;440.709;Entire home/apt;99;7;44;16/03/2020;0.61;1;1
+5026455;Triplex apt in the heart of Antwerp;4492282;Lies;;Historisch Centrum;5.121.804;439.894;Entire home/apt;171;2;91;16/03/2020;1.26;2;1
+5040147;#�NOMBRE?;3185214;Annemie;;Borgerhout Intra Muros Zuid;5.121.161;442.929;Entire home/apt;93;2;63;7/12/2020;0.95;4;247
+5047962;Quiet place in an historical quarter;12309348;Luc & Kristina;;Haringrode;5.120.269;442.433;Private room;60;1;132;23/09/2020;1.84;1;365
+5074616;Discrete luxury on a top location;26204741;Patrick;;Eilandje;5.123.028;441.823;Entire home/apt;84;3;73;5/10/2020;1.02;1;305
+5096851;Double room in cosy and quiet house with garden.;15216025;Paolo;;Deurne Zuid Oost;5.119.984;446.793;Private room;75;1;1;21/05/2018;0.03;1;174
+5187760;A-South Luxury Penthouse Living;24007242;Bep;;Zuid;512.124;439.328;Entire home/apt;300;2;34;16/02/2020;0.48;1;309
+5223125;Modern flat in the historical centrum  of Antwerp;27027069;Sander;;Historisch Centrum;5.121.835;440.018;Entire home/apt;48;1;339;15/03/2020;4.72;1;297
+5233718;Apartment in Antwerp;27086764;Nina;;Theaterbuurt-Meir;5.121.655;441.352;Entire home/apt;93;2;21;11/10/2020;0.29;1;319
+"5379855,Classy and spacious 19th cent loft with terrace.,11534275,""Ian, Jande En Marie"",,Borgerhout Intra Muros Zuid,51.21464,4.43446,Entire home/apt,260,2,178,2020-03-08,2.55,1,0";;;;;;;;;;;;;;;
+"5417459,""Full house with garden, near by tram"",7553126,Tania,,Hoboken - Centrum,51.17887,4.36301,Entire home/apt,50,2,91,2020-06-21,1.55,1,0";;;;;;;;;;;;;;;
+5574536;Central studio in historic center;28902892;AchA;;Historisch Centrum;5.122.019;4.4;Entire home/apt;85;2;100;4/08/2020;1.44;2;359
+5575185;Central apartment w/ exclusive view;28902892;AchA;;Historisch Centrum;5.121.873;439.963;Entire home/apt;115;2;215;7/10/2020;3.06;2;285
+5578067;Design loft in historic building;28920566;Jasper;;Universiteitsbuurt;5.122.091;44.164;Shared room;85;1;174;15/03/2020;2.49;1;147
+5646286;NESTT;4715596;Caroline & Klaas;;Borgerhout Intra Muros Noord;5.121.464;443.711;Entire home/apt;49;2;47;14/10/2020;0.67;2;175
+5702020;Where living becomes poetry...;29563257;Isabel;;Sint-Andries;5.121.491;439.732;Entire home/apt;90;2;84;10/11/2019;1.20;1;177
+"5741728,""""""la casa di Frà"""""",29779875,""""""La Casa Di Frà"",,Borgerhout Intra Muros Zuid,51.21484,4.43169,Entire home/apt,70,1,34,2018-03-04,0.49,1,0";;;;;;;;;;;;;;;
+5789730;Back to Beck;30038566;Marleen;;Deurne Zuid Oost;5.119.612;446.167;Entire home/apt;79;1;41;13/09/2020;0.59;1;304
+5922786;Smartflats Meir 301 - 2 Bedrooms - Meir Area;2792958;Alex;;Theaterbuurt-Meir;5.121.902;440.909;Entire home/apt;182;1;50;11/09/2020;0.77;21;1
+5923210;Smartflats Meir 401 - 2 Bedrooms - Meir Area;2792958;Alex;;Theaterbuurt-Meir;5.121.857;440.898;Entire home/apt;158;1;24;14/09/2020;0.37;21;331
+5923754;Smartflats Meir 501 - 1 Bedroom - Meir Area;2792958;Alex;;Theaterbuurt-Meir;5.121.837;440.868;Entire home/apt;138;1;11;18/09/2020;0.17;21;352
+5940310;Adorable happy positive vibes place;4586965;Marie;;Kiel;5.118.236;438.937;Entire home/apt;110;1;52;25/07/2020;0.94;2;363
+5994895;Cosy apartment in historic house;11857224;Christel;;Historisch Centrum;5.122.076;439.855;Entire home/apt;118;3;25;9/03/2020;0.37;1;365
+6000928;Arendshof;29134589;Guido;;Deurne Oost;5.122.319;448.347;Entire home/apt;135;1;15;29/11/2019;0.25;1;363
+6004053;Room at 20 min.' walk from center;31168861;Monique;;Brederode;5.120.399;439.827;Private room;20;10;27;10/09/2018;0.39;1;245
+6046872;Feel Good  Antwerp City Apartment;27432928;Anastassya;;Harmonie;512.061;440.915;Entire home/apt;79;3;56;30/11/2020;2.52;1;60
+"6051973,""Welcome @Tempor'area, reopening June 8th! :-)"",3970988,Arthur,,Theaterbuurt-Meir,51.21336,4.40415,Entire home/apt,148,2,67,2020-10-15,0.97,1,354";;;;;;;;;;;;;;;
+6071213;At Granny's near Rivierenhof;1820186;Fronk & Lieve;;Deurne Oost;5.122.075;447.857;Private room;30;7;9;19/07/2020;0.13;6;365
+6149034;Lovely flat with spectacular view!;25673165;Sharon;;Eilandje;5.123.273;440.394;Entire home/apt;40;2;282;6/12/2020;4.09;1;361
+6150016;private vintage room in Antwerp;21648784;Samuel;;Borgerhout Intra Muros Zuid;5.121.331;443.286;Private room;50;1;36;16/02/2020;0.52;1;0
+6183201;Duplex Studio;31447903;Marjolijn;;Zuid;5.120.649;439.284;Entire home/apt;75;2;50;10/09/2019;0.72;1;182
+6183800;Comfy Studio Apartment in Antwerp;32074613;Bart;;Amandus - Atheneum;5.122.801;441.684;Entire home/apt;77;2;38;12/07/2020;0.94;2;25
+6271039;Art Tout;20572492;JackieJ;;Borgerhout Intra Muros Zuid;5.121.134;444.073;Private room;35;1;100;28/11/2020;1.46;4;364
+6418099;BOOK LOVERS' room near Station;33481052;Anne;;Borgerhout Intra Muros Zuid;5.121.538;442.761;Private room;48;2;285;1/03/2020;4.22;5;365
+6428108;Lozana Lodging;33547183;Erik;;Harmonie;5.120.117;440.684;Entire home/apt;105;5;0;;;2;363
+6463582;Comfortable accommodation in spacious penthouse;30519050;Bart;;Stuivenberg;5.122.061;443.441;Private room;42;7;106;17/09/2020;1.56;1;89
+"6545997,""Penthouse + 60 m2 terras";;;;;;;;;;;;;;;
+"Incl. 2 fietsen"",34241163,Peter,,Amandus - Atheneum,51.22376,4.41753,Entire home/apt,69,1,19,2020-03-08,0.28,1,0";;;;;;;;;;;;;;;
+6584668;Belle Epoque Townhouse Antwerp;9629145;Tom;;Stadspark;5.120.914;441.327;Entire home/apt;536;2;111;3/11/2020;1.68;1;80
+6585827;Quiet room close to Central Station;33481052;Anne;;Centraal Station;5.121.614;442.675;Private room;39;2;151;1/03/2020;2.26;5;365
+6592820;4 pers. roomAmbassador Antwerpen;12559122;Be-Housing;;Stadspark;5.120.939;442.212;Entire home/apt;80;1;4;23/04/2017;0.06;3;365
+6593097;6 pers. Ambassador Antwerp;12559122;Be-Housing;;Zurenborg;5.120.954;442.323;Entire home/apt;118;1;0;;;3;365
+6594526;8 pers. Room Ambassador Antwerp;12559122;Be-Housing;;Haringrode;5.120.839;442.224;Entire home/apt;150;1;4;23/10/2016;0.06;3;364
+6670508;cozy appt in main shopping district;34913046;Laila;;Theaterbuurt-Meir;5.121.915;440.721;Entire home/apt;111;2;184;8/10/2020;2.72;4;363
+6672914;Cosy modern studio city-center WIFI & parking;34924663;Astrid;;Eilandje;5.123.095;440.589;Entire home/apt;68;2;39;1/04/2020;0.61;1;293
+6700898;Quiet with a view and morning light;33481052;Anne;;Borgerhout Intra Muros Zuid;5.121.458;442.861;Private room;49;2;13;3/12/2019;0.19;5;365
+6821808;Appartement near Central Station;6833101;Dorith;;Stuivenberg;5.122.018;442.919;Entire home/apt;64;2;23;27/02/2020;0.35;1;0
+6833081;Cosy appartment close to free parking;35491133;Karin;;Zuid;5.120.697;438.598;Entire home/apt;55;3;48;31/10/2020;0.71;2;275
+6919227;The Old Charming Lady;4261413;Jackie;;Oud - Berchem;5.120.143;44.329;Private room;45;1;7;21/08/2020;0.11;15;365
+6984717;Trendy apartment in city centre;36620632;Fred;;Theaterbuurt-Meir;5.121.019;440.555;Entire home/apt;85;2;12;26/07/2020;0.43;1;37
+6988851;Big 1 Bdrm Apt in Hip Marnix Place - Antwerp-Zuid;4371798;Nina;;Zuid;512.115;439.879;Entire home/apt;100;5;30;21/07/2020;0.78;2;337
+7027563;Studio aan de rand van Antwerpen;36841645;Ann;;Nieuw - Kwartier West;5.118.986;442.491;Entire home/apt;61;2;22;28/05/2020;0.34;1;183
+7041474;privé kamer op tweede verdieping;34106356;Jim;;Stuivenberg;5.122.121;443.052;Private room;25;1;223;9/11/2020;3.33;1;1
+7067067;Master bedroom with 2 balconies;33481052;Anne;;Borgerhout Intra Muros Zuid;5.121.528;442.754;Private room;48;2;200;5/02/2020;3.00;5;363
+7123771;Triplex in het oude centrum van Antwerpen;37228775;Jules;;Theaterbuurt-Meir;5.121.662;440.192;Entire home/apt;80;2;31;25/09/2020;1.82;2;161
+7262234;cosy appartement near trainstation;14050717;Nana;;Amandus - Atheneum;512.238;442.055;Entire home/apt;52;2;136;13/09/2020;2.51;2;101
+7264367;BOHEMIAN HOUSE ANTWERP From Sunday To Friday ‘s!!!;4261413;Jackie;;Oud - Berchem;511.998;443.277;Hotel room;36;1;18;8/03/2020;0.27;15;365
+7264462;The FAMILY HOUSE!;4261413;Jackie;;Oud - Berchem;5.120.097;443.159;Private room;1002;1;11;11/08/2019;0.17;15;365
+7298474;Authentic Belgian apartment;27585607;Christel;;Amandus - Atheneum;5.122.375;44.216;Entire home/apt;54;2;289;23/10/2020;4.36;3;350
+7342924;Central apt. with panoramic view;6830519;Jura;;Universiteitsbuurt;5.122.077;441.521;Entire home/apt;63;2;102;13/03/2020;1.54;1;1
+7365174;Cosy classical mansion;30007259;Carlo En Johnny;;Deurne Zuid West;5.120.915;445.426;Private room;42;1;277;30/09/2020;4.18;2;302
+7416651;Convenient located quiet cosy house;30408795;Joris;;Amandus - Atheneum;512.208;442.289;Entire home/apt;65;2;48;9/03/2020;0.73;1;0
+7443226;Well furnished apartment in Antwerp;33641167;Rose;;Deurne Zuid Oost;5.119.645;44.634;Private room;99;1;0;;;1;365
+7461110;Meeting rooms  in Art Nouveau Antwerp! Add Beds!;4261413;Jackie;;Oud - Berchem;5.120.037;443.316;Private room;47;1;6;31/03/2019;0.09;15;365
+7552929;Cosy and vintage apartment;10832813;Freya;;Borgerhout Intra Muros Noord;512.184;444.352;Entire home/apt;60;2;83;25/10/2020;1.26;1;33
+7614218;Antwerp Apartment near Centre & EXPO;8851707;Nancy & Arthur;;Petroleum - Zuid;5.119.629;439.048;Entire home/apt;102;1;78;21/06/2020;1.37;1;350
+7649576;Trendy appartment with view;40140067;Katrien;;Markgrave;5.119.786;440.675;Entire home/apt;79;2;42;3/07/2020;0.64;1;178
+7724259;green paradise near central station;24189736;Paul;;Borgerhout Intra Muros Zuid;5.121.334;443.175;Entire home/apt;500;4;20;10/11/2019;0.31;2;364
