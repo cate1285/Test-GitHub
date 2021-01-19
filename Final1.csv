@@ -1,0 +1,10 @@
+id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;room_type;price;minimum_nights;number_of_reviews;last_review;reviews_per_month;calculated_host_listings_count;availability_365
+50904;aplace/antwerp: cosy suite - fashion district;234077;Karin;;Historisch Centrum;5.121.825;439.901;Hotel room;158;1;1;6/05/2015;0.01;4;246
+116134;Trendy Vacation Apartment Antwerp;586942;Paul;;Eilandje;5.123.051;440.593;Entire home/apt;150;2;102;16/11/2020;0.95;1;352
+224333;Large stylish room in 1930s house + garden;1167377;Geert;;Deurne Zuid West;5.119.772;445.853;Private room;16;14;2;4/07/2020;0.02;2;1
+224682;APARTMENT ROSCAM - OLD CENTRE ANTWERP;1263933;Kristien;;Sint-Andries;5.121.722;43.979;Entire home/apt;86;2;337;28/12/2020;3.12;1;362
+328911;Large Modern Apt W Great Park Views;1263814;Tinne;;Stadspark;5.121.078;44.105;Entire home/apt;44;15;59;30/10/2019;0.55;1;57
+345959;Marleen's home in Antwerp city;1754396;Marleen;;Markgrave;5.119.935;440.154;Entire home/apt;55;2;55;22/09/2020;0.52;2;338
+366252;ROOM IN FAMILY HOME near C. Station;1820186;Fronk & Lieve;;Borgerhout Intra Muros Noord;5.121.601;443.432;Private room;35;1;104;15/09/2019;0.97;6;365
+445201;ROOM in FAMILY HOME near Central Sation;1820186;Fronk & Lieve;;Borgerhout Intra Muros Noord;5.121.579;443.265;Private room;22;1;55;10/09/2020;0.53;6;365
+522693;Ahome Awayfromhome;2562294;Ahome;;Historisch Centrum;5.122.001;439.813;Entire home/apt;282;2;2;27/10/2017;0.03;1;364
